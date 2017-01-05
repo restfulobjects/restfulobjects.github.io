@@ -6,7 +6,7 @@ description: "domain driven design, apache&nbsp;isis, restful&nbsp;objects, nake
 exclude: [_README, _zzz, Gemfile.lock]
 
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 
 paginate: 50
 permalink: /:year/:month/:day/:title/

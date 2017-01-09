@@ -2,6 +2,8 @@
 layout: default
 ---
 
+
+
 The Restful Objects specification defines a set of RESTful resources, and corresponding JSON representations, for accessing and manipulating a domain object model. The current version of the spec is **v1.0.0**.
 
 ![Resources and Representations](images/resources-and-representations/v1.0-450px.png)

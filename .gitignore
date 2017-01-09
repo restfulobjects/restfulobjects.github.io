@@ -1,8 +1,0 @@
-*~
-/.idea/*
-/_site/
-/.bundle/
-/tmp/
-*.bundle
-Gemfile.lock
-*.iml
